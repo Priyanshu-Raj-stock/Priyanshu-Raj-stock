@@ -47,6 +47,8 @@
 ![Git](https://img.shields.io/badge/Git-2a1a1a?style=for-the-badge&logo=git&logoColor=f85149)
 ![VS Code](https://img.shields.io/badge/VS_Code-1a1a2d?style=for-the-badge&logo=visualstudiocode&logoColor=a371f7)
 ![Postman](https://img.shields.io/badge/Postman-1a2a1a?style=for-the-badge&logo=postman&logoColor=3fb950)
+![Streamlit](https://img.shields.io/badge/Streamlit-2a1a1a?style=for-the-badge&logo=streamlit&logoColor=f85149)
+
 
 ---
 
