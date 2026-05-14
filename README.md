@@ -39,8 +39,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-130d26?style=for-the-badge&logo=pandas&logoColor=a371f7)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d2818?style=for-the-badge&logo=python&logoColor=3fb950)
 ![Seaborn](https://img.shields.io/badge/Seaborn-1a1a0d?style=for-the-badge&logo=python&logoColor=e3b341)
-![SHAP](https://img.shields.io/badge/SHAP-1a2a2a?style=for-the-badge&logo=python&logoColor=5dcaa5)
-![SMOTE](https://img.shields.io/badge/SMOTE-1a1f2e?style=for-the-badge&logo=python&logoColor=79c0ff)
 ![Streamlit](https://img.shields.io/badge/Streamlit-2a1a1a?style=for-the-badge&logo=streamlit&logoColor=f85149)
 
 **Tools & Database**
@@ -68,7 +66,7 @@ Scalable backend for an e-commerce E-Bike platform. Features role-based authenti
 
 ML-powered web app to predict whether an insurance claim is fraudulent or genuine. Built a full pipeline — data preprocessing, handling class imbalance with SMOTE, training a Random Forest model, and deploying via Streamlit with SHAP-based explainability and downloadable reports.
 
-**Tech:** `Python` `Random Forest` `SMOTE` `SHAP` `Streamlit` `scikit-learn` `Pandas`
+**Tech:** `Python` `scikit-learn` `Pandas`
 
 ---
 
