@@ -14,7 +14,7 @@
 - 🔧 Core skills in **Python**, **Django**, **Django REST Framework**, **Pandas**, **NumPy**, and **scikit-learn**.
 - 🚲 Currently building a **Django-based E-Bike Store Management System** — a real-world REST API with role-based access, order workflows, and admin analytics.
 - 🎯 Goal: to work in **AI / Machine Learning** — building intelligent systems that solve real problems.
-- 🌱 Always learning — currently exploring deep learning and expanding my ML knowledge every day.
+- 🌱 Always learning — currently expanding my Dsa knowledge every day.
 
 ---
 
